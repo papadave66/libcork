@@ -75,6 +75,9 @@ make_u128_suite(gt)
 make_u128_suite(ge)
 make_u128_suite(add)
 make_u128_suite(sub)
+make_u128_suite(mul)
+make_u128_suite(div)
+make_u128_suite(mod)
 
 #-----------------------------------------------------------------------
 # Command-line tests
